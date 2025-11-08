@@ -28,50 +28,85 @@
 
 ```
 
-├── LB1-2_Kuzmina_V11/              # Лабораторная работа №1–2: Современный парсинг динамических сайтов
-│   ├── kuzmina11_msci.py           # Финальный Python-скрипт (Selenium, очистка, SQLite, визуализация)
-│   ├── msci_top10_5yr.png          # Основная визуализация (топ-10 индексов MSCI по 5-летней доходности)
-│   ├── ОТЧЕТ ЛБ1-2.docx            # Оформленный отчёт в Word
-│   ├── ОТЧЕТ ЛБ1-2.pdf             # PDF-версия отчёта
-│   └── Результаты работы/          # Итоговые артефакты лабораторной
-│       ├── msci_data.db            # SQLite-база с таблицей msci_indexes
-│       ├── msci_indexes_1yr_5yr.csv # Полный набор собранных данных
-│       ├── msci_top10_5yr.csv      # Топ-10 индексов по доходности
-│       ├── msci_top10_5yr.xlsx     # Экспорт в Excel
-│       ├── msci_top10_5yr (1).png  # Альтернативный вариант графика
-│       └── zaprosy.sql             # SQL-запросы, использованные в анализе
-│
-├── PW1_Kuzmina_V11/                # Практическая работа №1: Работа с API (Kaggle, GitHub, hh.ru)
-│   ├── PW_1_API_Analysis_Kuzmina.ipynb # Jupyter-ноутбук с реализацией
-│   ├── ОТЧЕТ ПР1.docx              # Отчёт по практической работе
-│   └── ОТЧЕТ ПР1.pdf               # PDF-версия отчёта
-│
-├── PW2_Kuzmina_V11/                # Практическая работа №2: Парсинг HTML (BeautifulSoup)
-│   ├── PW_2_2025_Kuzmina.ipynb     # Ноутбук с выполнением и комментариями
-│   ├── ОТЧЕТ ПР2.docx              # Отчёт по работе
-│   └── ОТЧЕТ ПР2.pdf               # PDF-версия
-│
-└── README.md                       # Описание проекта и структура курса
-
-````
-
----
-
-## ⚙️ Инструкции по запуску
-
-### 🔹 Для лабораторной № 1–2 (MSCI)
-```bash
-cd LB1-2_Kuzmina_V11
-python3 kuzmina11_msci.py
-````
-
-После выполнения в папке `Результаты работы` появятся файлы:
-
-* `msci_indexes_1yr_5yr.csv` — исходные данные;
-* `msci_top10_5yr.png` — график топ-10 индексов;
-* `msci_data.db` — база SQLite с таблицей `msci_indexes`.
-
----
+├── LB1-2_Kuzmina_V11
+│   ├── kuzmina11_msci.py
+│   ├── msci_top10_5yr.png
+│   ├── ОТЧЕТ ЛБ1-2.docx
+│   ├── ОТЧЕТ ЛБ1-2.pdf
+│   └── Результаты работы
+│       ├── msci_data.db
+│       ├── msci_indexes_1yr_5yr.csv
+│       ├── msci_top10_5yr (1).png
+│       ├── msci_top10_5yr.csv
+│       ├── msci_top10_5yr.xlsx
+│       └── zaprosy.sql
+├── LB3_Kuzmina_V11 
+│   ├── cleanup.sh
+│   ├── dags
+│   │   ├── dagKu11.py
+│   │   ├── data
+│   │   ├── kuzmina11
+│   │   │   ├── data
+│   │   │   │   ├── categories.xlsx
+│   │   │   │   ├── sales.json
+│   │   │   │   └── stores.csv
+│   │   │   └── generate_d.py
+│   │   └── test.py
+│   ├── docker-compose.yml
+│   ├── lab3_variant11_project
+│   │   ├── data
+│   │   │   ├── categories.xlsx
+│   │   │   ├── sales.json
+│   │   │   └── stores.csv
+│   │   ├── output
+│   │   │   └── top_categories.db
+│   │   └── reports
+│   │       ├── plot_revenue_by_city.png
+│   │       ├── plot_revenue_share.png
+│   │       ├── plot_top3_categories.png
+│   │       └── report_lab3_variant11.txt
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── Архитектура
+│   │   ├── Снимок экрана 2025-11-08 в 22.58.56.png
+│   │   ├── Снимок экрана 2025-11-08 в 22.59.03.png
+│   │   └── Снимок экрана 2025-11-08 в 22.59.17.png
+│   ├── ОТЧЕТ ЛБ3.docx
+│   └── ОТЧЕТ ЛБ3.pdf
+├── PW1_Kuzmina_V11
+│   ├── PW_1_API_Analysis_Kuzmina.ipynb
+│   ├── ОТЧЕТ ПР1.docx
+│   └── ОТЧЕТ ПР1.pdf
+├── PW2_Kuzmina_V11
+│   ├── PW_2_2025_Kuzmina.ipynb
+│   ├── ОТЧЕТ ПР2.docx
+│   └── ОТЧЕТ ПР2.pdf
+├── PW3_Kuzmina_V11
+│   ├── data
+│   │   ├── olympiads.json
+│   │   ├── scholarships.xlsx
+│   │   └── students.csv
+│   ├── data_generator.py
+│   ├── data_preprocessing.py
+│   ├── docker_help.md
+│   ├── docker-compose.yml
+│   ├── Dockerfile
+│   ├── main_analysis.py
+│   ├── README.md
+│   ├── results
+│   │   ├── income_by_faculty.png
+│   │   ├── income_by_year.png
+│   │   ├── income_distribution.png
+│   │   ├── income_summary.csv
+│   │   └── merged_dataset.csv
+│   ├── sql
+│   │   ├── create_tables.sql
+│   │   └── income_query.sql
+│   ├── Архитектура аналитического решения — копия.drawio
+│   ├── Архитектура аналитического решения — копия.png
+│   ├── ОТЧЕТ ПР3.docx
+│   └── ОТЧЕТ ПР3.pdf
+└── README.md
 
 ## 📊 Содержание курса
 
