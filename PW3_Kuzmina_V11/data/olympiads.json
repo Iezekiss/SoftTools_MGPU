@@ -1,0 +1,402 @@
+[
+    {
+        "student_id": 1,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 2,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 3,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 4,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 5,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 6,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 7,
+        "prize_amount": 2000
+    },
+    {
+        "student_id": 8,
+        "prize_amount": 2000
+    },
+    {
+        "student_id": 9,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 10,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 11,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 12,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 13,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 14,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 15,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 16,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 17,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 18,
+        "prize_amount": 2000
+    },
+    {
+        "student_id": 19,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 20,
+        "prize_amount": 2000
+    },
+    {
+        "student_id": 21,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 22,
+        "prize_amount": 2000
+    },
+    {
+        "student_id": 23,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 24,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 25,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 26,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 27,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 28,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 29,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 30,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 31,
+        "prize_amount": 2000
+    },
+    {
+        "student_id": 32,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 33,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 34,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 35,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 36,
+        "prize_amount": 2000
+    },
+    {
+        "student_id": 37,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 38,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 39,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 40,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 41,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 42,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 43,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 44,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 45,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 46,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 47,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 48,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 49,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 50,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 51,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 52,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 53,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 54,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 55,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 56,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 57,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 58,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 59,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 60,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 61,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 62,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 63,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 64,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 65,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 66,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 67,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 68,
+        "prize_amount": 2000
+    },
+    {
+        "student_id": 69,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 70,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 71,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 72,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 73,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 74,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 75,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 76,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 77,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 78,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 79,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 80,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 81,
+        "prize_amount": 1000
+    },
+    {
+        "student_id": 82,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 83,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 84,
+        "prize_amount": 2000
+    },
+    {
+        "student_id": 85,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 86,
+        "prize_amount": 2000
+    },
+    {
+        "student_id": 87,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 88,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 89,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 90,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 91,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 92,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 93,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 94,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 95,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 96,
+        "prize_amount": 500
+    },
+    {
+        "student_id": 97,
+        "prize_amount": 2000
+    },
+    {
+        "student_id": 98,
+        "prize_amount": 1500
+    },
+    {
+        "student_id": 99,
+        "prize_amount": 0
+    },
+    {
+        "student_id": 100,
+        "prize_amount": 1500
+    }
+]
