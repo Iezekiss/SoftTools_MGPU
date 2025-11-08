@@ -1,0 +1,27 @@
+[
+  {
+    "store_id": 1,
+    "category_id": 101,
+    "revenue": 2340000
+  },
+  {
+    "store_id": 2,
+    "category_id": 102,
+    "revenue": 1870000
+  },
+  {
+    "store_id": 3,
+    "category_id": 103,
+    "revenue": 1540000
+  },
+  {
+    "store_id": 4,
+    "category_id": 104,
+    "revenue": 1310000
+  },
+  {
+    "store_id": 5,
+    "category_id": 105,
+    "revenue": 1190000
+  }
+]
