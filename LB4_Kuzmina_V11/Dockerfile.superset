@@ -1,3 +1,0 @@
-FROM apache/superset
-
-COPY superset/superset_config.py /app/pythonpath/superset_config.py
